@@ -1,4 +1,5 @@
 syntax enable
 set background=dark
-set cursorline! cursorcolumn!
+set cursorline
+set cursorcolumn
 colorscheme sourcerer
